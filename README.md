@@ -1,4 +1,4 @@
-# Taiwan r/place template
+# r/placeTW template
 
 The repository for Taiwan's r/place plan.
 
