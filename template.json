@@ -4,7 +4,7 @@
     {
       "name": "Taiwan",
       "sources": [
-        "https://github.com/placeTW/template/blob/main/assets/tw_blank.png"
+        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_blank.png"
       ],
       "x": 900,
       "y": 300
