@@ -2,12 +2,20 @@
   "contact": "https://discord.placetw.com",
   "templates": [
     {
-      "name": "Taiwan",
+      "name": "Taiwan (ROC) Flag",
       "sources": [
         "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_blank.png"
       ],
       "x": 900,
       "y": 300
+    },
+    {
+      "name": "P3ACE: Penguin sipping bubble tea",
+      "sources": [
+        "https://raw.githubusercontent.com/placeTW/template/main/assets/taiwan_tea.png"
+      ],
+      "x": 738,
+      "y": 658
     }
   ],
   "whitelist": [],
