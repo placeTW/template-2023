@@ -3,7 +3,7 @@
   "contact": "https://discord.placetw.com",
   "templates": [
     {
-      "name": "Taiwan (ROC) Flag",
+      "name": "Taiwan (ROC) Flag (Approx. location)",
       "sources": [
         "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_blank.png"
       ],
