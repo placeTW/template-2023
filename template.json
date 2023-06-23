@@ -1,4 +1,5 @@
 {
+  "faction": "Taiwan r/place (placeTW)",
   "contact": "https://discord.placetw.com",
   "templates": [
     {
@@ -16,6 +17,14 @@
       ],
       "x": 738,
       "y": 658
+    },
+    {
+      "name": "Taiwan Island and TW#1 beside Armenia",
+      "sources": [
+        "https://raw.githubusercontent.com/placeTW/template/main/assets/taiwan_island_no1.png"
+      ],
+      "x": 584,
+      "y": 670
     }
   ],
   "whitelist": [],
