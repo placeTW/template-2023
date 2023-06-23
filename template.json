@@ -27,6 +27,11 @@
       "y": 670
     }
   ],
-  "whitelist": [],
+  "whitelist": [
+    {
+      "name": "P3ACE Alliance",
+      "url": "https://charity.pxls.space/p3ace"
+    }
+  ],
   "blacklist": []
 }
