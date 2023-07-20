@@ -15,16 +15,16 @@
       "sources": [
         "https://raw.githubusercontent.com/placeTW/template/main/assets/taiwan_tea.png"
       ],
-      "x": 239,
-      "y": 158
+      "x": 739,
+      "y": 658
     },
     {
       "name": "Taiwan Island and TW#1 beside Armenia",
       "sources": [
         "https://raw.githubusercontent.com/placeTW/template/main/assets/taiwan_island_no1.png"
       ],
-      "x": 89,
-      "y": 163
+      "x": 589,
+      "y": 663
     }
   ],
   "whitelist": [],
