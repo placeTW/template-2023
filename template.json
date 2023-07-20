@@ -25,6 +25,14 @@
       ],
       "x": 589,
       "y": 663
+    },
+    {
+      "name": "Taiwan with Korea above Canada",
+      "sources": [
+        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_with_kr.png"
+      ],
+      "x": 627,
+      "y": 660
     }
   ],
   "whitelist": [
