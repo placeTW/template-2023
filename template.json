@@ -7,24 +7,24 @@
       "sources": [
         "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_blank.png"
       ],
-      "x": 900,
-      "y": 308
+      "x": 400,
+      "y": -208
     },
     {
       "name": "P3ACE: Penguin sipping bubble tea",
       "sources": [
         "https://raw.githubusercontent.com/placeTW/template/main/assets/taiwan_tea.png"
       ],
-      "x": 739,
-      "y": 658
+      "x": 239,
+      "y": 158
     },
     {
       "name": "Taiwan Island and TW#1 beside Armenia",
       "sources": [
         "https://raw.githubusercontent.com/placeTW/template/main/assets/taiwan_island_no1.png"
       ],
-      "x": 589,
-      "y": 663
+      "x": 89,
+      "y": 163
     }
   ],
   "whitelist": [
