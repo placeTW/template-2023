@@ -11,6 +11,14 @@
       "y": 381
     },
     {
+      "name": "Taiwan Independence Flag",
+      "sources": [
+        "https://raw.githubusercontent.com/placeTW/template/main/assets/twindep_orig.png"
+      ],
+      "x": 865,
+      "y": 630
+    },
+    {
       "name": "P3ACE: Penguin sipping bubble tea",
       "sources": [
         "https://raw.githubusercontent.com/placeTW/template/main/assets/taiwan_tea.png"
