@@ -5,10 +5,10 @@
     {
       "name": "Taiwan (ROC) Flag (Approx. location)",
       "sources": [
-        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_blank.png"
+        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_taiwan_text.png"
       ],
       "x": 900,
-      "y": 308
+      "y": 301
     },
     {
       "name": "P3ACE: Penguin sipping bubble tea",
@@ -35,11 +35,6 @@
       "y": 660
     }
   ],
-  "whitelist": [
-    {
-      "name": "P3ACE Alliance",
-      "url": "https://charity.pxls.space/p3ace"
-    }
-  ],
+  "whitelist": [],
   "blacklist": []
 }
