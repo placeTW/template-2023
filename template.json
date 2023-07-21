@@ -11,23 +11,7 @@
       "y": 658
     },
     {
-      "name": "Taiwan with Korea above Canada",
-      "sources": [
-        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_with_kr.png"
-      ],
-      "x": 619,
-      "y": 660
-    },
-    {
-      "name": "Taiwan at Baltics",
-      "sources": [
-        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_at_baltics.png"
-      ],
-      "x": 414,
-      "y": 940
-    },
-    {
-      "name": "Taiwan at Baltics (moved higher)",
+      "name": "Taiwan at Baltics (With bear and bbt)",
       "sources": [
         "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_at_baltics_bear_bbt.png"
       ],
@@ -41,6 +25,14 @@
       ],
       "x": 592,
       "y": 475
+    },
+    {
+      "name": "Taiwan Independence",
+      "sources": [
+        "https://raw.githubusercontent.com/placeTW/template/main/assets/twindep_baltics.png"
+      ],
+      "x": -476,
+      "y": 988
     }
   ],
   "whitelist": [
