@@ -3,14 +3,6 @@
   "contact": "https://discord.placetw.com",
   "templates": [
     {
-      "name": "Taiwan (ROC) Flag",
-      "sources": [
-        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_flag.png"
-      ],
-      "x": 637,
-      "y": 453
-    },
-    {
       "name": "P3ACE: Penguin sipping bubble tea",
       "sources": [
         "https://raw.githubusercontent.com/placeTW/template/main/assets/taiwan_tea.png"
@@ -33,6 +25,14 @@
       ],
       "x": 414,
       "y": 940
+    },
+    {
+      "name": "Small Taiwan",
+      "sources": [
+        "https://raw.githubusercontent.com/placeTW/template/main/assets/small_tw.png"
+      ],
+      "x": 592,
+      "y": 475
     }
   ],
   "whitelist": [
