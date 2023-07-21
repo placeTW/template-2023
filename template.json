@@ -29,10 +29,10 @@
     {
       "name": "Taiwan Independence",
       "sources": [
-        "https://raw.githubusercontent.com/placeTW/template/main/assets/twindep_baltics.png"
+        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_indep_baltics_1.png"
       ],
-      "x": -476,
-      "y": 988
+      "x": 475,
+      "y": 987
     }
   ],
   "whitelist": [
