@@ -5,10 +5,10 @@
     {
       "name": "Taiwan (ROC) Flag",
       "sources": [
-        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_blank_40x20.png"
+        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_flag.png"
       ],
-      "x": 901,
-      "y": 381
+      "x": 637,
+      "y": 453
     },
     {
       "name": "P3ACE: Penguin sipping bubble tea",
@@ -23,7 +23,7 @@
       "sources": [
         "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_with_kr.png"
       ],
-      "x": 619,
+      "x": 626,
       "y": 660
     }
   ],
