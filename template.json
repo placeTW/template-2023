@@ -27,6 +27,14 @@
       "y": 940
     },
     {
+      "name": "Taiwan at Baltics (moved higher)",
+      "sources": [
+        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_at_baltics.png"
+      ],
+      "x": 414,
+      "y": 922
+    },
+    {
       "name": "Small Taiwan",
       "sources": [
         "https://raw.githubusercontent.com/placeTW/template/main/assets/small_tw.png"
