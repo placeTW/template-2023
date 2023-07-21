@@ -25,8 +25,21 @@
       ],
       "x": 619,
       "y": 660
+    },
+    {
+      "name": "Taiwan at Baltics",
+      "sources": [
+        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_at_baltics.png"
+      ],
+      "x": 415,
+      "y": 941
     }
   ],
-  "whitelist": [],
+  "whitelist": [
+    {
+      "name": "Baltics",
+      "url": "https://rentry.org/BalticsOverlay/raw"
+    }
+  ],
   "blacklist": []
 }
