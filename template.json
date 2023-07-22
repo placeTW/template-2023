@@ -22,7 +22,7 @@
   "whitelist": [
     {
       "name": "Baltics",
-      "url": "https://rentry.org/4iitz/raw"
+      "url": "https://gist.githubusercontent.com/Sidges/e0e7158ec9ba82feeb19feea1f7f9997/raw "
     }
   ],
   "blacklist": []
