@@ -11,18 +11,18 @@
       "y": 658
     },
     {
-      "name": "Taiwan at Baltics (With bear and bbt)",
+      "name": "Taiwan (Bear, Bubble tea, Taipei 101)",
       "sources": [
-        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_at_baltics_bear_bbt_2.png"
+        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_tp101.png"
       ],
-      "x": 413,
+      "x": 403,
       "y": 922
     }
   ],
   "whitelist": [
     {
       "name": "Baltics",
-      "url": "https://gist.githubusercontent.com/Sidges/e0e7158ec9ba82feeb19feea1f7f9997/raw"
+      "url": "https://rentry.org/4iitz/raw"
     }
   ],
   "blacklist": []
