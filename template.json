@@ -13,34 +13,10 @@
     {
       "name": "Taiwan at Baltics (With bear and bbt)",
       "sources": [
-        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_at_baltics_bear_bbt.png"
+        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_at_baltics_bear_bbt_new.png"
       ],
-      "x": 414,
+      "x": 413,
       "y": 922
-    },
-    {
-      "name": "Small Taiwan",
-      "sources": [
-        "https://raw.githubusercontent.com/placeTW/template/main/assets/small_tw.png"
-      ],
-      "x": 592,
-      "y": 475
-    },
-    {
-      "name": "Taiwan Independence",
-      "sources": [
-        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_indep_baltics_1.png"
-      ],
-      "x": 474,
-      "y": 986
-    },
-    {
-      "name": "Taiwan at SEATO",
-      "sources": [
-        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_seato.png"
-      ],
-      "x": 1297,
-      "y": 629
     }
   ],
   "whitelist": [
