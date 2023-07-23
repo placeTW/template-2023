@@ -7,16 +7,8 @@
       "sources": [
         "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_tp10101.png"
       ],
-      "x": 903,
+      "x": 902,
       "y": 1406
-    },
-    {
-      "name": "Taiwan Independence Flag",
-      "sources": [
-        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_indep.png"
-      ],
-      "x": 908,
-      "y": 1566
     }
   ],
   "whitelist": [
