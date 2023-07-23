@@ -23,6 +23,10 @@
     {
       "name": "Baltics",
       "url": "https://gist.githubusercontent.com/Sidges/e0e7158ec9ba82feeb19feea1f7f9997/raw "
+    },
+    {
+      "name": "UGA",
+      "url": "https://gachaalliance.github.io/place2023/template.json"
     }
   ],
   "blacklist": []
