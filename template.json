@@ -13,10 +13,10 @@
     {
       "name": "Taiwan (Bear, Bubble tea, Taipei 101)",
       "sources": [
-        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_101px_tp101_1.png"
+        "https://raw.githubusercontent.com/placeTW/template/main/assets/tw_semiconductor.png"
       ],
       "x": 903,
-      "y": 1421
+      "y": 1406
     }
   ],
   "whitelist": [
