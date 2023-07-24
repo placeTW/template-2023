@@ -9,14 +9,6 @@
       ],
       "x": 1402,
       "y": 1406
-    },
-    {
-      "name": "TSMC",
-      "sources": [
-        "https://raw.githubusercontent.com/placeTW/template/main/assets/tsmc.png"
-      ],
-      "x": 2000,
-      "y": 2000
     }
   ],
   "whitelist": [
